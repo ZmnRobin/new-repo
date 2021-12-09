@@ -1,0 +1,121 @@
+[{
+    "id": 1,
+    "name": "Cristiano Ronaldo",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+    "baseValue": 31,
+    "club": "Juventus"
+  }, {
+    "id": 2,
+    "name": "Robin",
+    "img": "https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/263422586_1048300695958970_5515940916797734973_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEqYkgikNd3Oy6cOpvGzCXn8Wagx1s-qKrxZqDHWz6oqmmc-tx00CowVMN6DuuLKNFaPK3Br12vYeofEI2SZtGa&_nc_ohc=hKxT4ZZHJkcAX_FfmPy&_nc_ht=scontent.fdac110-1.fna&oh=47e03acf97aee9a7a9c538004cd5a0e0&oe=61B7DA6A",
+    "baseValue": 34,
+    "club": "Barchelona"
+  }, {
+    "id": 3,
+    "name": "Neymar",
+    "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec59a8cda48890006292eee%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D845%26cropX2%3D2277%26cropY1%3D97%26cropY2%3D1528",
+    "baseValue": 30,
+    "club": "Paris Saint-Germain"
+  }, {
+    "id": 4,
+    "name": "Sergio Ramos",
+    "img": "https://i.pinimg.com/originals/f9/69/9e/f9699ea54403eeb1a70282869aa9b56d.jpg",
+    "baseValue": 20,
+    "club": "Real Madrid"
+  }, {
+    "id": 5,
+    "name": "Franck Ribery",
+    "img": "https://en.24smi.org/public/media/celebrity/2018/07/11/2hkvbtiabnrm-franck-ribery.jpg",
+    "baseValue": 15,
+    "club": "Bayern Munich"
+  }, {
+    "id": 6,
+    "name": "Luka Modric",
+    "img": "https://www.realmadrid.com/img/vertical_380px/modric_380x501_20201203095835.jpg",
+    "baseValue": 14,
+    "club": "Real Madrid"
+  }, {
+    "id": 7,
+    "name": "Robert Lewandowski",
+    "img": "https://i.guim.co.uk/img/media/11ea8ecbace004bedb1065f1248359bb04e6d358/153_6_3767_2260/master/3767.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=94c0236c3d4dea9676263897730512f3",
+    "baseValue": 20,
+    "club": "Bayern Munich"
+  }, {
+    "id": 8,
+    "name": " Virgil van Dijk",
+    "img": "https://i.eurosport.com/2019/12/02/2729096-56403930-2560-1440.jpg",
+    "baseValue": 10,
+    "club": "Liverpool"
+  }, {
+    "id": 9,
+    "name": "Andrés Iniesta",
+    "img": "https://nigeriana.news/wp-content/uploads/2018/05/inesta.jpg",
+    "baseValue": 14,
+    "club": "Barchelona"
+  }, {
+    "id": 10,
+    "name": "Xavi",
+    "img": "https://images.daznservices.com/di/library/goal_es/43/fc/xavi-hernandez-barcelona-la-liga_1s6ppagqgkds71a15pu5oqw2pe.jpg?t=1716244728&w=800&h=600",
+    "baseValue": 15,
+    "club": "Barchelona"
+  }, {
+    "id": 11,
+    "name": "Radamel Falcao",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Radamel_Falcao_Garc%C3%ADa.jpg/235px-Radamel_Falcao_Garc%C3%ADa.jpg",
+    "baseValue": 15,
+    "club": "Porto"
+  }, {
+    "id": 12,
+    "name": "Zlatan Ibrahimović",
+    "img": "https://tmssl.akamaized.net/images/foto/normal/zlatan-ibrahimovic-ac-mailand-1603008323-49388.jpg?lm=1603008348",
+    "baseValue": 20,
+    "club": "Milan"
+  }, {
+    "id": 13,
+    "name": "Manuel Neuer",
+    "img": "https://images2.minutemediacdn.com/image/fetch/w_736,h_485,c_fill,g_auto,f_auto/https%3A%2F%2Fthetopflight.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1205273174-850x560.jpeg",
+    "baseValue": 20,
+    "club": "Schalke 04"
+  }, {
+    "id": 14,
+    "name": "Wayne Rooney",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGybQ6zi98OHMUvFM6bHPAeM3TH28QoWvPgA&usqp=CAU",
+    "baseValue": 25,
+    "club": "Manchester United"
+  }, {
+    "id": 15,
+    "name": "Gerard Piqué",
+    "img": "https://icdn.football-espana.net/wp-content/uploads/2020/06/Pique-Sevilla.jpg",
+    "baseValue": 18,
+    "club": "Barchelona"
+  }, {
+    "id": 16,
+    "name": "Andrea Pirlo",
+    "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5817b3724bbe6f0ad5daf33c%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D667%26cropX2%3D2099%26cropY1%3D119%26cropY2%3D1550",
+    "baseValue": 20,
+    "club": "Juventus"
+  }, {
+    "id": 17,
+    "name": "Didier Drogba",
+    "img": "https://justoutsidetheboxblog.files.wordpress.com/2018/11/800px-drogbafinale12.jpg",
+    "baseValue": 14,
+    "club": "Chelsea"
+  }, {
+    "id": 18,
+    "name": "Ángel Di María",
+    "img": "https://www.ligue1.com/-/media/Project/LFP/shared/Images/Players/2020-2021/68806.jpg",
+    "baseValue": 15,
+    "club": "Real Madrid"
+  }, {
+    "id": 19,
+    "name": "Paul Pogba",
+    "img": "https://images.daznservices.com/di/library/GOAL/18/26/paul-pogba-manchester-united_1plg3gwhcktaz1x8859wpokbpw.jpg?t=-59791920&quality=100",
+    "baseValue": 16,
+    "club": "Juventus"
+  }, {
+    "id": 20,
+    "name": "Thomas Muller",
+    "img": "https://cdn.jagonews24.com/media/imgAllNew/BG/2018March/muller-1-20180524181305.jpg",
+    "baseValue": 18,
+    "club": "Bayern Munich"
+  }]
